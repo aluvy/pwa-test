@@ -1,7 +1,7 @@
 {
-    "name": "Hello MinHyup222",
-    "short_name": "minhyup",
-    "description": "PWA Study",
+    "name": "PWA-Vanilla JS",
+    "short_name": "PWA APP",
+    "description": "PWA APP test",
     "scope": ".",
     "start_url": "./",
     "display": "standalone",
