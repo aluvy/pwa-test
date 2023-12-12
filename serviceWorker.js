@@ -1,4 +1,4 @@
-const appVersion = "1";
+const appVersion = "0";
 
 // 캐시 제목
 const sCacheName = `pwa-vanilla-${appVersion}`;
