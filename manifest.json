@@ -1,16 +1,18 @@
 {
-    "short_name": "PWA",
-    "name": "PWA App",
-    "icons": [
-        {
-            "src": "./icon.png",
-            "type" : "image/png",
-            "sizes" : "160x160"
-        }
-    ],
-    "theme_color": "#2196f3",
-    "background_color": "#2196f3",
-    "display": "fullscreen",
+    "name": "Hello MinHyup222",
+    "short_name": "minhyup",
+    "description": "PWA Study",
+    "scope": ".",
+    "start_url": "./",
+    "display": "standalone",
     "orientation": "portrait",
-    "start_url": "./index.html"
+    "theme_color": "#1d1d1d",
+    "background_color": "#1d1d1d",
+    "icons": [
+      {
+        "src": "./assets/img/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
   }

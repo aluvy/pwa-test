@@ -1,1 +1,1 @@
-# pwa-test
+# PWA-Vanilla JS
